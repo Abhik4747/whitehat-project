@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+h1 {
+    color: firebrick;
+    height: 30%;
+}
+
+img {
+    width: 500px;
+}
